@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# Data files
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Poetry
+.venv/
